@@ -1,3 +1,7 @@
+[Live demo](https://challenge-51c8a.web.app/) of the app.
+
+This is a clone of the Amazon app created using react.js, firebase as backend db and hosting, and stripe for the payment (yes! you can actually pay using a credit card :) ).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
