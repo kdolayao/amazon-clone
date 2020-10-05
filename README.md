@@ -2,6 +2,8 @@
 
 This is a clone of the Amazon app created using react.js, firebase as backend db and hosting, and stripe for the payment (yes! you can actually pay using a credit card 😃 ).
 
+This project also serves as my base project when creating projects for ecommerce sites.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
